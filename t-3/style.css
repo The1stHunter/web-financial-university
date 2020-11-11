@@ -1,0 +1,9 @@
+form {
+	border: solid #000 2px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+#warning {
+	color: #f00;
+}

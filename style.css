@@ -33,6 +33,10 @@ a {
 	background: url("images/t-2.jpg") no-repeat center;
 }
 
+#image3 {
+	background: url("images/t-3.jpg") no-repeat center;
+}
+
 li span {
 	position: absolute;
 	bottom: 0;
