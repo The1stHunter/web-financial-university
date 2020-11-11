@@ -23,6 +23,13 @@ a {
 	border-radius: 15px;
 	width: 250px;
 	height: 250px;
+}
+
+#image1 {
+	background: url("images/t-1.jpg") no-repeat center;
+}
+
+#image2 {
 	background: url("images/t-2.jpg") no-repeat center;
 }
 
