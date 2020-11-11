@@ -1,0 +1,33 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+	font-size: 1.3em;
+}
+
+.img {
+	position: relative;
+	border: solid #000 3px;
+	border-radius: 15px;
+	width: 250px;
+	height: 250px;
+	background: url("images/t-2.jpg") no-repeat center;
+}
+
+li span {
+	position: absolute;
+	bottom: 0;
+	right: 10px;
+}
